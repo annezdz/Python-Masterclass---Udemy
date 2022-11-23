@@ -1,0 +1,127 @@
+1669060316724	geckodriver	INFO	Listening on 127.0.0.1:55893
+1669060394402	geckodriver	INFO	Listening on 127.0.0.1:55926
+1669060593928	geckodriver	INFO	Listening on 127.0.0.1:60397
+1669060596946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60398" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANNE~1.ZIM\\AppData\\Local\\Temp\\rust_mozprofile5IBzdX"
+1669060597265	Marionette	INFO	Marionette enabled
+1669060597271	Marionette	INFO	Listening on port 60407
+Read port: 60407
+WebDriver BiDi listening on ws://127.0.0.1:60398
+1669060597390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANNE~1.ZIM\\AppData\\Local\\Temp\\rust_mozprofile5IBzdX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60398/devtools/browser/a7c745b3-607d-48b3-8213-28123a1058f2
+1669060602202	Marionette	INFO	Stopped listening on port 60407
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 717: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1669061854118	geckodriver	INFO	Listening on 127.0.0.1:60988
+1669061857120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60989" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANNE~1.ZIM\\AppData\\Local\\Temp\\rust_mozprofilefUgiS8"
+1669061857610	Marionette	INFO	Marionette enabled
+1669061857617	Marionette	INFO	Listening on port 60998
+Read port: 60998
+WebDriver BiDi listening on ws://127.0.0.1:60989
+1669061857789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANNE~1.ZIM\\AppData\\Local\\Temp\\rust_mozprofilefUgiS8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60989/devtools/browser/e7c52db2-cc48-468a-a176-dd8ebfbc9e4b
+1669061870668	Marionette	INFO	Stopped listening on port 60998
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ANNE~1.ZIM\AppData\Local\Temp\rust_mozprofilefUgiS8\protections.sqlite
+1669119379717	geckodriver	INFO	Listening on 127.0.0.1:61944
+1669119382766	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61945" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANNE~1.ZIM\\AppData\\Local\\Temp\\rust_mozprofileERTTsV"
+1669119384939	Marionette	INFO	Marionette enabled
+1669119384945	Marionette	INFO	Listening on port 61961
+Read port: 61961
+WebDriver BiDi listening on ws://127.0.0.1:61945
+1669119385087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANNE~1.ZIM\\AppData\\Local\\Temp\\rust_mozprofileERTTsV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61945/devtools/browser/26a7ec46-b0ca-4fd1-a569-e6f7b406d347
+1669119394459	Marionette	INFO	Stopped listening on port 61961
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: OperationError: Could not move temporary file(C:\Users\ANNE~1.ZIM\AppData\Local\Temp\rust_mozprofileERTTsV\sessionCheckpoints.json.tmp) to destination(C:\Users\ANNE~1.ZIM\AppData\Local\Temp\rust_mozprofileERTTsV\sessionCheckpoints.json)
+1669164368176	geckodriver	INFO	Listening on 127.0.0.1:59768
+1669164371199	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59769" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANNE~1.ZIM\\AppData\\Local\\Temp\\rust_mozprofile5AFJeL"
+1669164372868	Marionette	INFO	Marionette enabled
+1669164372875	Marionette	INFO	Listening on port 59778
+Read port: 59778
+WebDriver BiDi listening on ws://127.0.0.1:59769
+1669164373021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANNE~1.ZIM\\AppData\\Local\\Temp\\rust_mozprofile5AFJeL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59769/devtools/browser/3e815e9b-cc04-4b1f-a289-a60103b25609
+JavaScript warning: https://www.redbus.com/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.com/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://beacon.riskified.com/?shop=www.redbus.com&sid=1bbe4947-69cd-4c91-9f44-8eba971ca89f, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.sessionstack.com/sessionstack.js, line 9: TypeError: right-hand side of 'in' should be an object, got undefined
+1669164387450	Marionette	INFO	Stopped listening on port 59778
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669164411797	geckodriver	INFO	Listening on 127.0.0.1:59838
+1669164414808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59839" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANNE~1.ZIM\\AppData\\Local\\Temp\\rust_mozprofilekTh02F"
+1669164415322	Marionette	INFO	Marionette enabled
+1669164415327	Marionette	INFO	Listening on port 59854
+Read port: 59854
+WebDriver BiDi listening on ws://127.0.0.1:59839
+1669164415477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANNE~1.ZIM\\AppData\\Local\\Temp\\rust_mozprofilekTh02F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59839/devtools/browser/6b3de6aa-73ef-49a1-8072-d882ddf00397
+JavaScript warning: https://www.redbus.com/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.com/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://beacon.riskified.com/?shop=www.redbus.com&sid=d1f2cdbe-cbe9-4385-a537-22f1e818eda8, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.sessionstack.com/sessionstack.js, line 9: TypeError: right-hand side of 'in' should be an object, got undefined
+1669164425087	Marionette	INFO	Stopped listening on port 59854
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669164446468	geckodriver	INFO	Listening on 127.0.0.1:59923
+1669164449487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59924" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANNE~1.ZIM\\AppData\\Local\\Temp\\rust_mozprofilere9r4e"
+1669164449881	Marionette	INFO	Marionette enabled
+1669164449886	Marionette	INFO	Listening on port 59933
+Read port: 59933
+WebDriver BiDi listening on ws://127.0.0.1:59924
+1669164450026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANNE~1.ZIM\\AppData\\Local\\Temp\\rust_mozprofilere9r4e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59924/devtools/browser/f58cc431-cc8c-4dce-a230-1deba466bc15
+JavaScript warning: https://www.redbus.com/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.com/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://beacon.riskified.com/?shop=www.redbus.com&sid=6899c6b5-2306-4c97-a01a-7f6c698577f7, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.sessionstack.com/sessionstack.js, line 9: TypeError: right-hand side of 'in' should be an object, got undefined
+1669164458032	Marionette	INFO	Stopped listening on port 59933
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669164472921	geckodriver	INFO	Listening on 127.0.0.1:59992
+1669164475937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59993" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANNE~1.ZIM\\AppData\\Local\\Temp\\rust_mozprofileZY0TQM"
+*** You are running in headless mode.
+1669164476325	Marionette	INFO	Marionette enabled
+1669164476329	Marionette	INFO	Listening on port 60003
+Read port: 60003
+WebDriver BiDi listening on ws://127.0.0.1:59993
+1669164476424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANNE~1.ZIM\\AppData\\Local\\Temp\\rust_mozprofileZY0TQM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59993/devtools/browser/56a51464-b294-43a0-9094-3ae2d4460255
+JavaScript warning: https://www.redbus.com/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.com/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://beacon.riskified.com/?shop=www.redbus.com&sid=f0ce3819-6eb7-4302-88b1-d44940466db2, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Listening on 127.0.0.1:60068
+1669164493786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60069" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANNE~1.ZIM\\AppData\\Local\\Temp\\rust_mozprofilerJSDi7"
+*** You are running in headless mode.
+1669164494130	Marionette	INFO	Marionette enabled
+1669164494135	Marionette	INFO	Listening on port 60078
+WebDriver BiDi listening on ws://127.0.0.1:60069
+Read port: 60078
+1669164494363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANNE~1.ZIM\\AppData\\Local\\Temp\\rust_mozprofilerJSDi7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60069/devtools/browser/2779ef22-6325-42de-8f39-8ee6afa289de
+JavaScript warning: https://www.redbus.com/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.com/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://beacon.riskified.com/?shop=www.redbus.com&sid=4788248a-576a-4197-9df7-0ffd7f1b5361, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Listening on 127.0.0.1:60160
+1669164521691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60161" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANNE~1.ZIM\\AppData\\Local\\Temp\\rust_mozprofile1mPeLD"
+*** You are running in headless mode.
+1669164522026	Marionette	INFO	Marionette enabled
+1669164522031	Marionette	INFO	Listening on port 60170
+WebDriver BiDi listening on ws://127.0.0.1:60161
+Read port: 60170
+1669164522215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANNE~1.ZIM\\AppData\\Local\\Temp\\rust_mozprofile1mPeLD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60161/devtools/browser/aedb3a3f-3732-4612-84bc-c9e61ec04139
+JavaScript warning: https://www.redbus.com/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.com/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://beacon.riskified.com/?shop=www.redbus.com&sid=475e2f86-d750-4950-8706-e392aa06d439, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.

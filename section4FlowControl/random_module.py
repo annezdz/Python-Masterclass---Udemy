@@ -1,6 +1,6 @@
 import random
 
-highest = 10
+highest = 1000
 answer = random.randint(1, highest)
 print(answer)
 flag = True
